@@ -1,4 +1,4 @@
-Less-Mixins
+Cross-Browser-Less-Mixins
 ===========
 
-Useful less mixins including hacks and fixes
+Useful less mixins focussing on cross browser hacks and fallbacks.
